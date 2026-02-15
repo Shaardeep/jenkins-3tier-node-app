@@ -4,7 +4,7 @@ const app = express();
 const PORT = 3000;
 
 app.get("/", (req, res) => {
-    res.send("Hello from 3-Tier Jenkins DevOps Project 🚀");
+    res.send("Auto Deploy Working 🚀");
 });
 
 app.listen(PORT, () => {
