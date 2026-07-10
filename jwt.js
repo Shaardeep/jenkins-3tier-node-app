@@ -1,1 +1,1 @@
-console.log("New file added")
+console.log("New file added : V 2")
